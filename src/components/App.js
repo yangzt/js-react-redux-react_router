@@ -1,4 +1,5 @@
 import React from "react";
+//switch gives the function that only one router is allowed, introduced with pageNotFound
 import { Route, Switch } from "react-router-dom";
 import HomePage from "./home/HomePage";
 import AboutPage from "./about/AboutPage";
