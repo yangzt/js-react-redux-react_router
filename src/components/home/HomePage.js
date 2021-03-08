@@ -8,7 +8,7 @@ const HomePage = () => (
     <h1>Pluralsight Administrator</h1>
     <p>React, Redux and React Router for ultra-responsive web apps.</p>
     <Link to="about" className="btn btn-primary btn-lg">
-      Learn more
+      Learn more and more
     </Link>
   </div>
 );
